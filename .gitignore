@@ -1,0 +1,45 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+target/
+out/
+*.iml
+.DS_Store
+node_modules/
+/dist
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+#=======
+# Created by .ignore support plugin (hsz.mobi)
+
+
+HELP.md
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+*.iws
+*.ipr
+
+### NetBeans ###
+/nbproject/rivate/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
+*.log
+*log/
